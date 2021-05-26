@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main Class to Start Restaurant Service Application.
+ * Main Class to Start NatWest Prime Service Application.
  *
  */
 @SpringBootApplication
